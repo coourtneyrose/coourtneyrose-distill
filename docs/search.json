@@ -1,12 +1,26 @@
 {
   "articles": [
     {
+      "path": "about.html",
+      "title": "Contact Information",
+      "author": [],
+      "contents": "\n\n\n\n",
+      "last_modified": "2021-10-13T22:58:54+00:00"
+    },
+    {
+      "path": "extra.html",
+      "title": "Extracurriculars",
+      "author": [],
+      "contents": "\nR Markdown\nThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.\nWhen you click the Knit button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:\n\n\nsummary(cars)\n\n\n     speed           dist       \n Min.   : 4.0   Min.   :  2.00  \n 1st Qu.:12.0   1st Qu.: 26.00  \n Median :15.0   Median : 36.00  \n Mean   :15.4   Mean   : 42.98  \n 3rd Qu.:19.0   3rd Qu.: 56.00  \n Max.   :25.0   Max.   :120.00  \n\nIncluding Plots\nYou can also embed plots, for example:\n\n\n\nNote that the echo = FALSE parameter was added to the code chunk to prevent printing of the R code that generated the plot.\n\n\n\n",
+      "last_modified": "2021-10-13T22:37:31+00:00"
+    },
+    {
       "path": "index.html",
       "title": "Courtney Rose",
       "description": "Hi! I am a graduate student in the Biostatistics program at Grand Valley State University. I am excited to continue my search for an internship for the summer of 2022.\n",
       "author": [],
       "contents": "\n\nv Created CSS file at theme.css \no TODO: Customize it to suit your needs \no TODO: Add 'theme: theme.css' to your site or article YAML\n \nSee docs at https://rstudio.github.io/distill/website.html#theming\n\n\n\n\n",
-      "last_modified": "2021-10-13T22:35:09+00:00"
+      "last_modified": "2021-10-13T22:56:19+00:00"
     },
     {
       "path": "outside.html",
@@ -19,7 +33,7 @@
       "path": "README.html",
       "author": [],
       "contents": "\ncoourtneyrose-distill\n\n\n",
-      "last_modified": "2021-10-13T22:35:09+00:00"
+      "last_modified": "2021-10-13T22:58:54+00:00"
     },
     {
       "path": "school_related.html",

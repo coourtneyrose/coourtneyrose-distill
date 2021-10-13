@@ -1,10 +1,17 @@
 ---
-title: "About this site"
-description: |
-  Some additional details about the website
+title: "Contact Information"
+links:
+  - label: LinkedIn
+    url: "www.linkedin.com/in/courtneymrose"
+  - label: Github
+    url: "https://github.com/coourtneyrose"
+  - label: Email
+    url: "mailto:roseco@mail.gvsu.edu"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
+
+
 
