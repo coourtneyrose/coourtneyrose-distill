@@ -1,7 +1,7 @@
 ---
 title: "Courtney Rose"
 description: |
-  Welcome to the website. I hope you enjoy it!
+  Hi! I am a graduate student in the Biostatistics program at Grand Valley State University. I am excited to continue my search for an internship for the summer of 2022.
 site: distill::distill_website
 ---
 
@@ -15,4 +15,22 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
+
+
+```{r}
+library(distill)
+create_theme(name = "theme")
+```
+
+
+
+
+
+
+
+
+
+
+
+
 
